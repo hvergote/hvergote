@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Im currently studying applied computer science at Hogeschool Gent
 <!--
 **hvergote/hvergote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
